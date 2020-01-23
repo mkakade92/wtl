@@ -1,4 +1,12 @@
 # wtl
+### Installation
 
+```sh
+$ npm install
+```
 
-Hello frieeeends
+### Run
+
+```sh
+$ npm start
+```
